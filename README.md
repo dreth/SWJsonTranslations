@@ -21,12 +21,12 @@
 ## The `missed` file
 
 The `missed` file will correspond to translations you'll have to go manually make in the JSON. I am skipping all lines with the following characters in the english original text: 
-    - \n
-    - {
-    - }
-    - <
-    - \>
-    - …
+- \n
+- {
+- }
+- <
+- \>
+- …
 
 These correspond to more 'delicate' translations that have html tags or variables in them. You'll have to edit these manually to not screw anything up.
 
