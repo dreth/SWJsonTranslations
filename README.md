@@ -1,4 +1,4 @@
-# Little translator for SW JSONs
+# Little translating tool for SW JSONs
 
 ## Before using this, some notes
 
