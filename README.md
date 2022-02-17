@@ -2,7 +2,7 @@
 
 ## Before using this, some notes
 
-- You **do NOT** have to type `y` whenever you run it, you can just press enter, an empty string counts as `y`
+- You **do NOT** have to type `y` as you run it, you can just press enter, an empty string counts as `y`
 
 - The language should be detected automatically assuming it's an ISO alpha-2 language code, I only saw the Spanish file, but my assumption is that all others share the same language code length
 
